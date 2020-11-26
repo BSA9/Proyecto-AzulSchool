@@ -4,8 +4,10 @@
 
 - **Manejo de consola de Git**
 - **Creación de repositorios**
-- **HTML**
+- **HTML**  
+
 [//]:# (Listas enumeradas)
+
 ### Contenido
  1. index.html
  2. informatio.txt
